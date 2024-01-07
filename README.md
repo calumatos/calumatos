@@ -1,15 +1,22 @@
+
 <div align="center">
   <h2>Hello there! 👋 I’m Carmen</h2>
-  <h3>Data Analyst / Electrical Engineer</h3>
+  <h2>Data Analyst / Electrical Engineer</h2>
 </div>
 
 <div align="left">
+
   Welcome to my Github!
+  
+  This is where I keep my work from the Data Analytics Bootcamp! 
+  Here you'll find a collection of labs, exercises and projects 
+  
+  that showcase my journey through the bootcamp.
 </div>
 
-<div align="left">
-  In this space, I store some of my Data Analytics Bootcamp work, such as labs, exercises, and projects.
-</div>
+
+#DataAnalytics #DataBootcamp #Ironhacker
+
 
 <div align="right">
   <img src="https://github.com/calumatos/calumatos/blob/main/gitreadme.gif" alt="Git README" width="500" />
