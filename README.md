@@ -1,3 +1,12 @@
-👋 Hello there!!! I’m @calumatos, I'm not really sure what I'm doing here 🤪
+## Hello there! 👋 I’m Carmen
 
+### Data Analyst / Electrical Engineer
 
+Welcome to my Github! 
+
+In this space I store some my Data Analytics Bootcamp work, such as labs, exercises and projects.
+
+How to reach me:
+
+https://www.linkedin.com/in/calumatos/
+calumatos@gmail.com
