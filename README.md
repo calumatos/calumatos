@@ -9,16 +9,13 @@
   Welcome to my Github!
   
   This is where I keep my work from the Data Analytics Bootcamp! 
-  Here you'll find a collection of labs, exercises and projects 
+  Here you'll find a some of labs, exercises and projects that showcase my journey through the course.
   
-  that showcase my journey through the bootcamp.
 </div>
-
 
 #DataAnalytics #DataBootcamp #Ironhacker
 
-
-<div align="right">
+<div align="center">
   <img src="https://github.com/calumatos/calumatos/blob/main/gitreadme.gif" alt="Git README" width="500" />
 </div>
 
