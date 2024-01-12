@@ -19,7 +19,24 @@
   <img src="https://github.com/calumatos/calumatos/blob/main/gitreadme.gif" alt="Git README" width="500" />
 </div>
 
-#### How to reach me:
+<div align="left">
+  
+### About me: 
+
+🏠 I live in Berlin, Germany
+
+💬 I speak English, Português, und ein bisschen Deutsch 
+
+🎓 I am originally an electrical engineer but (!)
+
+🚀 I've finished a Data Analytics Bootcamp in dec/23
+
+💻 I'm currently looking for my first opportunity in the data world
+
+
+</div>
+
+### How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calumatos/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:calumatos@gmail.com)
