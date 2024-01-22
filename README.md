@@ -9,7 +9,7 @@
   Welcome to my Github!
   
   This is where I keep my work from the Data Analytics Bootcamp! 
-  Here you'll find a some of labs, exercises and projects that showcase my journey through the course.
+  Here you'll find a some of the labs, exercises and projects that showcase my journey through the course.
   
 </div>
 
@@ -27,7 +27,7 @@
 
 💬 I speak English, Português, und ein bisschen Deutsch 
 
-🎓 I am originally an electrical engineer but (!)
+🎓 I'm originally an electrical engineer but (!)
 
 🚀 I've finished a Data Analytics Bootcamp in dec/23
 
