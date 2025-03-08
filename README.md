@@ -8,7 +8,7 @@
 
   Welcome to my Github!
   
-  This is where I keep my work from the Data Analytics Bootcamp! 
+  This is where I keep my work from the Data Analytics Bootcamp and Data/Machine Learning related courses! 
   Here you'll find a some of the labs, exercises and projects that showcase my journey through the course.
   
 </div>
